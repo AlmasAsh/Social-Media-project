@@ -1,0 +1,12 @@
+﻿usernamec:Password¿Ernest Manning¡Male¤male3¡0000:
+usernamea:Password¿Ernest Manning¡Male¤male2¡0000:
+usernameb:Password¿Ernest Manning¡Female¤female1¡0000:
+usernamef:Password¿Ernest Manning¡Male¤default¡0000:
+scervania:susan¿Western Canada¡Female¤female3¡0000:
+usernames:Password¿Ernest Manning¡Male¤male3¡0000:
+nikcholas:powerplus5¿E.P. Scarlet¡Male¤default¡0000:
+shanto:11709069¿Cresent Heights¡Male¤male1¡1010:
+java:Password¿E.P. Scarlet¡Male¤default¡0000:
+emon:123456¿E.P. Scarlet¡Male¤male3¡0000:
+evan:0000¿Bishop Caroll¡Male¤default¡0000:
+almas:1234¿Cresent Heights¡Male¤male3¡0000:
